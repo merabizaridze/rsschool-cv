@@ -11,3 +11,4 @@ Experience: Have learner C++ and Python in Georgian technical university, was so
 
 Education: Student of Georgian technical university
 
+English: Intermediate
