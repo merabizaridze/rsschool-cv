@@ -1,5 +1,7 @@
 Merab Zaridze
 
+Email: merabizaridze@gmail.com
+
 Summary: Trying to become a good software developer and reach high level on this field.
 
 Skills:
